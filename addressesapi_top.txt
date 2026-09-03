@@ -1,25 +1,10 @@
-8.145.42.89:443#US-14.28MB/s-Alibaba (US) Technology Co., Ltd.
-8.130.55.248:443#US-13.32MB/s-Alibaba (US) Technology Co., Ltd.
-47.95.254.92:443#US-12.01MB/s-Alibaba (US) Technology Co., Ltd.
-47.95.252.47:443#US-11.98MB/s-Alibaba (US) Technology Co., Ltd.
 38.207.133.44:443#HK-26.74MB/s-XNNET LLC
-45.78.37.81:443#HK-15.36MB/s-IT7 Networks Inc
 172.64.229.161:443#CN-22.63MB/s-China Mobile communications corporation
 172.64.229.195:443#CN-22.73MB/s-China Mobile communications corporation
-8.218.102.168:443#HK-17.63MB/s-Alibaba (US) Technology Co., Ltd.
-172.64.229.97:443#CN-18.45MB/s-China Mobile communications corporation
 43.159.4.80:443#SG-23.55MB/s-Tencent Building, Kejizhongyi Avenue
-172.64.229.254:443#CN-14.54MB/s-China Mobile communications corporation
-91.110.174.173:8443#HK-17.09MB/s-CNSERVERS LLC
-52.192.132.1:8443#JP-15.77MB/s-Amazon.com, Inc.
-13.114.50.138:8443#JP-14.24MB/s-Amazon.com, Inc.
-43.165.135.8:443#JP-14.04MB/s-Tencent Building, Kejizhongyi Avenue
 172.64.229.67:443#CN-28.47MB/s-China Mobile communications corporation
 172.64.229.107:443#CN-29.21MB/s-China Mobile communications corporation
 172.64.229.120:443#CN-26.59MB/s-China Mobile communications corporation
-172.64.229.1:443#CN-18.39MB/s-China Mobile communications corporation
-172.64.229.236:443#CN-16.52MB/s-China Mobile communications corporation
-172.64.229.110:443#CN-13.85MB/s-China Mobile communications corporation
 139.162.62.166:443#SG-29.75MB/s-Akamai Connected Cloud
 209.33.172.86:443#JP-28.10MB/s-BAGE CLOUD LLC
 58.152.13.239:443#HK-24.86MB/s-HKT Limited
@@ -37,6 +22,3 @@
 31.25.88.11:443#DE-20.37MB/s-Kirino LLC
 172.104.83.39:443#JP-20.04MB/s-Akamai Connected Cloud
 45.14.106.177:443#JP-20.03MB/s-xTom
-38.207.132.249:443#SG-19.59MB/s-Coaxial Cable LLC
-47.75.104.211:443#US-19.53MB/s-Alibaba (US) Technology Co., Ltd.
-139.162.70.21:443#JP-19.43MB/s-Akamai Connected Cloud
