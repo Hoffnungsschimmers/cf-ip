@@ -1,7 +1,7 @@
 38.207.133.44:443#HK-26.74MB/s-XNNET LLC
 172.64.229.161:443#CN-22.63MB/s-China Mobile communications corporation
 172.64.229.195:443#CN-22.73MB/s-China Mobile communications corporation
-43.159.4.80:443#SG-23.55MB/s-Tencent Building, Kejizhongyi Avenue
+43.159.4.80:443#SG-23.55MB/s-Tencent Building Kejizhongyi Avenue
 172.64.229.67:443#CN-28.47MB/s-China Mobile communications corporation
 172.64.229.107:443#CN-29.21MB/s-China Mobile communications corporation
 172.64.229.120:443#CN-26.59MB/s-China Mobile communications corporation
@@ -12,11 +12,11 @@
 35.213.5.250:443#JP-24.03MB/s-Google LLC
 209.33.167.234:443#HK-23.94MB/s-BAGE CLOUD LLC
 193.111.31.28:26493#JP-23.76MB/s-xTom Japan Corporation
-38.207.164.229:41222#HK-22.93MB/s-VMISS Inc.
+38.207.164.229:41222#HK-22.93MB/s-VMISS Inc
 112.120.48.236:443#HK-22.06MB/s-HKT Limited
 139.162.18.18:443#SG-21.91MB/s-Akamai Connected Cloud
-194.156.162.151:443#SG-21.52MB/s-Misaka Network, Inc.
-23.249.18.189:443#HK-21.00MB/s-Prime Security Corp.
+194.156.162.151:443#SG-21.52MB/s-Misaka Network Inc
+23.249.18.189:443#HK-21.00MB/s-Prime Security Corp
 149.104.5.247:443#HK-20.83MB/s-VH Global Limited
 216.23.84.65:443#JP-20.55MB/s-Bitsflowcloud Ltd
 31.25.88.11:443#DE-20.37MB/s-Kirino LLC
